@@ -1,1 +1,1 @@
-Those R notebooks and data set are to used for AB testing workshop by Nova data school (http://novadataschool.com)
+These R notebooks and data were used during the AB testing workshop by [Nova Data School](http://novadataschool.com)
